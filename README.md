@@ -12,7 +12,7 @@ Vamos a por ello :)
 
 ### Pista 1
 
-Esta es la pista 1 y se encuentra [aqui](https://batmanrobin2304.github.io/Pistas-Fase-1/)
+Esta es la pista 1 y se encuentra [aqui](https://batmanrobin2304.github.io/Fase1-Pista1/)
 
 ### Pista 2
 
